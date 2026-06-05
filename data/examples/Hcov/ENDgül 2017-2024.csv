@@ -1,0 +1,427 @@
+patientNumber;birthDate;sex;AUFTRAG;virus_bacterium;examinationDate;result;EINSENDER
+2204759874;20.05.2016;female;n7256445;260;11.01.2017;positive;Kinder Station A   T
+2204756301;08.01.2017;male;84174447;260;22.02.2017;positive;Kinderklinik Station
+2206346119;09.05.2021;male;87409836;280;28.02.2022;positive;Kinder Station A   T
+2206579814;21.12.2021;female;87445402;270;14.03.2022;positive;Kinderklinik Notfall
+2204381863;11.09.2015;female;87445389;280;14.03.2022;positive;Kinderklinik Station
+9001828514;08.01.2017;male;84174438;260;22.02.2017;positive;Kinderklinik Notfall
+2206258155;18.01.2021;male;87399247;270;24.02.2022;positive;Kinderklinik Notfall
+2012947889;24.01.2002;female;7665021;260;06.04.2017;positive;Kinderklinik Notfall
+2010640566;21.02.1944;male;87400507;270;24.02.2022;positive;Krankenhaus ST. JOHA
+2010640566;21.02.1944;male;87400507;280;24.02.2022;positive;Krankenhaus ST. JOHA
+2205229046;23.03.2018;male;87508683;270;13.04.2022;positive;Kinderklinik Notfall
+9001861996;27.03.2017;female;84330514;260;19.10.2017;positive;Krankenhaus KUFSTEIN
+2205061838;11.10.2017;male;84357530;260;04.12.2017;positive;Kinderklinik Notfall
+2102351382;01.04.2020;female;87246340;270;03.01.2022;positive;Kinderklinik Notfall
+2206529543;03.11.2021;female;87229260;280;22.12.2021;positive;Kinderklinik Notfall
+2206580898;04.10.2021;female;87227397;270;21.12.2021;positive;Kinder Station A   T
+2206584842;06.05.2020;female;87235037;270;27.12.2021;positive;Kinderklinik Notfall
+2205090382;09.11.2017;female;84362753;260;11.12.2017;positive;Kinder Station A   T
+2011012445;06.01.1977;male;87252663;270;04.01.2022;positive;KH Hall Intensiv Sta
+2011012445;06.01.1977;male;87252663;280;04.01.2022;positive;KH Hall Intensiv Sta
+2011012445;06.01.1977;male;87252663;290;04.01.2022;positive;KH Hall Intensiv Sta
+2204598048;18.08.2016;male;84365192;260;15.12.2017;positive;Kinderklinik Station
+2206630348;31.12.2021;male;87340663;280;07.02.2022;positive;Kinderklinik Notfall
+2205071817;23.10.2017;male;84366140;260;18.12.2017;positive;Kinderklinik Station
+2206414378;16.07.2021;male;87319944;270;28.01.2022;positive;Kinder Station A   T
+2101699520;22.10.2013;female;84368331;260;21.12.2017;positive;Kinderklinik Notfall
+2205051328;03.10.2017;male;84369081;260;22.12.2017;positive;Kinderklinik Notfall
+2003175106;01.05.1955;female;88362060;290;12.03.2024;positive;Krankenhaus SCHWAZ  
+2205076150;26.10.2017;female;84372234;260;02.01.2018;positive;Kinderklinik Notfall
+2206582106;23.12.2021;male;88343890;290;27.02.2024;positive;Kinderklinik Notfall
+2205143311;05.10.2017;male;8244935;260;08.01.2018;positive;Kinderklinik Station
+2204735886;16.12.2016;male;84379874;260;16.01.2018;positive;Kinderklinik Station
+2207152873;03.12.2021;female;88341952;290;26.02.2024;positive;Kinder Station A   T
+2205118015;06.05.2017;male;7151632;260;24.01.2018;positive;P馬diatrische Intensi
+2102497468;25.06.2013;female;88305328;290;30.01.2024;positive;Kinderklinik Station
+2206790841;11.04.2020;male;88311554;290;05.02.2024;positive;Kinderklinik Notfall
+2205429452;10.10.2018;female;7935244;260;18.10.2018;positive;Kinderklinik Station
+2102452499;11.03.1973;female;88298383;290;24.01.2024;positive;Innere Medizin H馬mat
+2205346069;22.07.2018;male;84583719;260;19.11.2018;positive;Kinder Station A   T
+2207527591;27.07.2020;male;88337230;290;21.02.2024;positive;P馬diatrische Intensi
+2207409629;22.11.2023;male;88319508;290;08.02.2024;positive;P馬diatrie   Ambulant
+2010347443;22.06.1961;male;88320727;270;09.02.2024;positive;Medizin Immunbiologi
+2205186878;14.02.2018;female;8836439;260;05.12.2018;positive;Kinder Station A   T
+2204642047;26.09.2016;female;84596112;260;10.12.2018;positive;P馬diatrische Intensi
+2205296339;02.06.2018;male;84600976;260;17.12.2018;positive;Kinder Station A   T
+2207614265;30.04.2024;female;88430251;270;03.05.2024;positive;Neugeborenen-Intensi
+2205494130;03.04.2006;male;7152259;260;18.12.2018;positive;P馬diatrische Intensi
+2207567798;23.03.2024;male;88417186;280;23.04.2024;positive;Kinder Station A   T
+2205494149;30.11.2016;female;8167208;260;19.12.2018;positive;Kinderklinik Station
+2201017036;11.01.2008;female;88441150;280;13.05.2024;positive;Kinderchir. 5/N    T
+2205298609;06.06.2018;male;8195690;260;20.12.2018;positive;Kinderklinik Notfall
+2205310919;17.06.2018;male;84605358;260;27.12.2018;positive;Kinderklinik Station
+2205503059;06.11.2018;female;84605302;260;27.12.2018;positive;P馬diatrische Intensi
+2102195518;14.03.2011;female;88386600;290;02.04.2024;positive;Kinder Station A   T
+2205503113;13.08.2013;female;8125437;260;27.12.2018;positive;Kinderklinik Notfall
+2004598418;04.09.1967;male;84606140;260;31.12.2018;positive;LKH-NATTERS Pneumolo
+2204985051;01.06.2017;male;88027208;280;16.05.2023;positive;Kinderklinik Station
+2204985051;01.06.2017;male;88025905;280;16.05.2023;positive;Kinderklinik Notfall
+9002944267;11.11.2021;male;88019637;290;10.05.2023;positive;Krankenhaus KUFSTEIN
+2205082681;03.11.2017;male;88038363;270;30.05.2023;positive;Kinderklinik Notfall
+2205987218;28.02.2020;male;88012622;290;04.05.2023;positive;P馬diatrische Intensi
+2207152342;17.03.2023;female;88001802;280;24.04.2023;positive;P馬diatrische Intensi
+2206351880;29.04.2021;male;88002400;290;25.04.2023;positive;Kinderklinik Notfall
+2203861950;07.09.1957;male;88087609;270;11.07.2023;positive;Krankenhaus St.Johan
+2205473176;19.11.2018;male;84606701;260;02.01.2019;positive;P馬diatrische Intensi
+2205232942;27.03.2018;male;84610033;260;08.01.2019;positive;HNO-OP    Tel:  (I)
+2203465273;06.06.2013;male;7557480;260;25.01.2019;positive;Kinder Station A   T
+2207126783;16.11.2022;female;87959298;280;20.03.2023;positive;P馬diatrische Intensi
+9002935733;07.04.2021;male;87958644;280;17.03.2023;positive;Krankenhaus ST. JOHA
+2206015252;08.04.2020;male;87963946;280;22.03.2023;positive;Kinderklinik Station
+2205540590;10.07.2017;male;84624039;260;28.01.2019;positive;Kinder Station A   T
+2204692443;11.11.2016;male;84629704;260;01.02.2019;positive;HNO-OP    Tel:  (I)
+2207152342;17.03.2023;female;87992416;270;17.04.2023;positive;Kinderklinik S馬uglin
+2207152342;17.03.2023;female;87992416;280;17.04.2023;positive;Kinderklinik S馬uglin
+2102185135;15.05.2018;male;87991229;280;14.04.2023;positive;Kikl.Med.Stat.(Gross
+2206210012;13.11.2020;male;87988531;290;12.04.2023;positive;Kinder Station A   T
+2205775814;24.08.2019;female;87976165;280;31.03.2023;positive;Kinderklinik Notfall
+2205182813;12.02.2018;male;87977923;280;03.04.2023;positive;Kinderklinik Station
+2205561237;01.06.2018;male;84638370;260;11.02.2019;positive;Kinder Station A   T
+2207352953;05.03.2020;male;88249125;290;12.12.2023;positive;Krankenhaus ST. JOHA
+2001708026;09.04.1937;male;88238388;270;01.12.2023;positive;ME-Gemeinsame Stat. 
+2207429522;13.12.2023;male;88283877;270;15.01.2024;positive;Neugeborenen-Intensi
+2206541612;17.01.1985;female;88283647;270;15.01.2024;positive;Moll Sabine Dr.  Tel
+2200889489;16.08.2007;male;88284710;270;15.01.2024;positive;Kinder Station A   T
+9002965000;05.06.2020;male;88172202;270;02.10.2023;positive;Krankenhaus ST. JOHA
+2101941585;11.03.2017;female;84642535;260;14.02.2019;positive;Krankenhaus KUFSTEIN
+2204824293;05.03.2017;male;84642921;260;14.02.2019;positive;Kinder Station A   T
+2101932845;01.06.2016;male;84684826;260;05.04.2019;positive;HNO-OP    Tel:  (I)
+2207264477;05.11.2021;male;88217074;280;13.11.2023;positive;Kikl.Med.Stat.(Gross
+2207804242;30.07.2022;male;88647807;280;21.10.2024;positive;P馬diatrische Intensi
+2207816011;14.07.2014;female;88662189;280;31.10.2024;positive;P馬diatrische Intensi
+2201454851;03.02.2009;male;88638478;280;14.10.2024;positive;Kinderklinik Notfall
+2206414149;10.12.2017;male;88708515;280;06.12.2024;positive;Kinderklinik Notfall
+2001757992;06.01.1938;female;84725956;260;03.06.2019;positive;HNO-OP    Tel:  (I)
+2001672390;14.09.1936;female;88706931;280;05.12.2024;positive;ME-Gemeinsame Stat. 
+2207080562;12.02.2023;male;88729345;280;23.12.2024;positive;Kikl.Med.Stat.(Gross
+2205719604;04.07.2019;male;88730131;280;23.12.2024;positive;Kinderklinik Station
+2207700439;22.05.2014;female;88729731;280;23.12.2024;positive;P馬diatrische Intensi
+2206478058;15.09.2021;male;88722174;270;17.12.2024;positive;Kinder Station A   T
+2206478058;15.09.2021;male;88722174;280;17.12.2024;positive;Kinder Station A   T
+2204630642;07.04.2016;female;84742004;260;21.06.2019;positive;Kinderklinik Station
+2207706925;27.07.2024;female;88703852;280;04.12.2024;positive;Kinderklinik Notfall
+2005557863;11.09.1977;female;88498582;290;24.06.2024;positive;DTZ Dialyse Training
+2203822262;28.11.2014;female;84874877;260;15.11.2019;positive;HNO-OP    Tel:  (I)
+2205798679;15.09.1971;male;88497948;270;24.06.2024;positive;KH Hall GUI Gyn./Url
+2205396694;01.01.1980;male;84888380;260;29.11.2019;positive;Unfallstation 3 6/N 
+2200043866;11.02.2005;female;84948780;260;29.01.2020;positive;HNO-Kinderstat.    T
+2206313679;31.03.2021;female;88497611;270;24.06.2024;positive;Kinderklinik Notfall
+2205783647;30.08.2019;male;84957381;260;05.02.2020;positive;Kinderklinik Station
+2204913067;23.05.2017;female;84990818;260;02.03.2020;positive;HNO-Kinderstat.    T
+2204903622;13.05.2017;male;88486170;280;14.06.2024;positive;Kikl.Med.Stat.(Gross
+2207643753;07.04.2020;female;88470324;280;04.06.2024;positive;Kinder Station A   T
+2200466309;11.10.2005;female;85006550;260;10.03.2020;positive;P馬diatrische Intensi
+9002030273;12.09.1995;female;85011323;260;11.03.2020;positive;Murr Walter Dr. Spre
+2206168857;23.09.2020;male;87618347;270;29.06.2022;positive;P馬diatrische Intensi
+2206783098;14.06.2022;female;87608074;280;22.06.2022;positive;Kinderklinik Notfall
+2206788596;15.11.2020;male;87608056;280;22.06.2022;positive;Kinderklinik Notfall
+2201363376;26.07.2004;female;87608047;280;22.06.2022;positive;Kinderklinik Notfall
+2206393907;27.01.2021;male;87626280;270;05.07.2022;positive;Kinderklinik Notfall
+2206365617;11.03.2021;male;86839229;260;31.05.2021;positive;Kinderklinik Notfall
+2206455525;23.08.2021;male;87588713;280;08.06.2022;positive;Kinderklinik Station
+2205542097;28.01.2019;male;86903300;260;12.07.2021;positive;Kinderklinik Notfall
+2206145369;01.09.2020;male;86903296;260;12.07.2021;positive;Kinderklinik Station
+2011238494;20.10.1960;male;87596947;290;14.06.2022;positive;KRANKENHAUS KUFSTEIN
+2102317338;17.12.2019;female;87595838;270;13.06.2022;positive;Kinder Station A   T
+2011238494;20.10.1960;male;87596173;290;13.06.2022;positive;KRANKENHAUS KUFSTEIN
+2206280207;05.08.1959;male;87598520;280;14.06.2022;positive;LKH-NATTERS Pneumolo
+2206593574;05.08.2019;male;87669488;290;04.08.2022;positive;Krankenhaus ST. JOHA
+2206929947;25.10.2019;female;87891276;280;30.01.2023;positive;P馬diatrische Intensi
+2100320455;22.01.2004;female;86905837;260;13.07.2021;positive;Kinderklinik Station
+2004611910;13.10.1967;male;87904277;270;07.02.2023;positive;Doblinger Alfred Dr.
+2205597398;09.03.2019;male;86908796;260;15.07.2021;positive;Kinderklinik Notfall
+2207001115;02.11.2022;male;87907909;280;09.02.2023;positive;Kinderklinik Notfall
+2206014710;24.12.2018;male;87898728;280;03.02.2023;positive;Kinder Station A   T
+2102296365;17.03.2020;male;86918839;260;23.07.2021;positive;Kinderklinik Station
+2205702388;18.06.2019;male;86918797;260;23.07.2021;positive;Kinderklinik Notfall
+2206269843;31.01.2021;male;86930887;260;04.08.2021;positive;Kinderklinik Notfall
+2205763913;12.08.2019;female;87877124;280;18.01.2023;positive;Kinderklinik P馬diatr
+2205195775;24.02.2018;male;87942420;280;07.03.2023;positive;Kinderklinik Notfall
+2201106136;20.04.1979;female;86946410;260;16.08.2021;positive;Medizin Intensiv    
+2004029480;12.04.1963;female;86958446;260;18.08.2021;positive;Innere Medizin Stat.
+2206455007;19.07.2021;male;86968032;260;23.08.2021;positive;P馬diatrische Intensi
+2206352941;18.05.2021;male;86973210;260;26.08.2021;positive;Kinderklinik Notfall
+2205724853;07.07.2019;male;86974470;260;27.08.2021;positive;Kinderklinik Notfall
+2206373132;07.06.2021;female;86988536;260;08.09.2021;positive;Kinderklinik Notfall
+2201342948;30.12.2008;female;87949665;280;10.03.2023;positive;Kinder Station A   T
+2205860153;13.11.2019;male;87952459;280;14.03.2023;positive;Kinderklinik Notfall
+2207120955;12.12.2022;male;87952528;280;14.03.2023;positive;Kinderklinik Station
+2102387875;12.04.2021;female;87944234;280;08.03.2023;positive;Krankenhaus KUFSTEIN
+2004505541;16.12.1966;male;86996268;260;14.09.2021;positive;Medizin Immunbiologi
+2207115757;24.10.2020;male;87946540;290;09.03.2023;positive;Kinderklinik Notfall
+2206393907;27.01.2021;male;87022858;260;01.10.2021;positive;Kinderklinik Notfall
+2206532664;22.03.2021;male;87914126;280;14.02.2023;positive;Kinderklinik Station
+2206014710;24.12.2018;male;87911636;280;13.02.2023;positive;Krankenhaus ZAMS  Ki
+2204578977;02.08.2016;male;87033111;260;07.10.2021;positive;Kinder Station A   T
+2102187442;29.03.2019;male;87068650;260;21.10.2021;positive;Kinderklinik Notfall
+2207038787;07.10.2020;male;87921802;280;20.02.2023;positive;Krankenhaus ZAMS  Ki
+2206486522;24.09.2021;female;87921443;280;20.02.2023;positive;Kinderklinik Notfall
+2202149262;05.12.2005;male;87922824;280;21.02.2023;positive;Kinder Station A   T
+2206320144;07.04.2021;male;87070431;260;21.10.2021;positive;Kinderklinik Station
+2205182813;12.02.2018;male;87092334;260;02.11.2021;positive;Kinderklinik Station
+2206401396;05.07.2021;male;87092247;260;02.11.2021;positive;Kinderklinik Notfall
+2206527741;09.07.2021;female;87092140;260;02.11.2021;positive;Kinderklinik Notfall
+2102209705;10.03.2018;male;87105721;260;04.11.2021;positive;Krankenhaus ZAMS  Ki
+2206487650;24.09.2021;female;87105422;260;04.11.2021;positive;Kinderklinik Notfall
+2102341956;10.04.2021;male;87114880;260;08.11.2021;positive;P馬diatrische Intensi
+2206054509;03.06.2020;female;87114825;260;08.11.2021;positive;P馬diatrische Intensi
+2206300879;09.02.2021;female;87118268;260;08.11.2021;positive;Kinderklinik EKG    
+2206533446;19.09.2021;male;87121959;260;08.11.2021;positive;Kinderklinik Notfall
+2206486769;25.09.2021;male;87137529;260;12.11.2021;positive;Kinderklinik Station
+2206471100;08.09.2021;male;87140400;260;14.11.2021;positive;Kinderklinik Station
+2205925824;11.01.2020;female;87143226;260;15.11.2021;positive;Kinderklinik Notfall
+2206542082;08.09.2021;female;87140850;260;15.11.2021;positive;Kinderklinik Notfall
+2206405271;07.07.2021;female;87170080;260;25.11.2021;positive;Kinder Station A   T
+9002460103;24.09.1999;female;87170016;260;25.11.2021;positive;Virologie    Tel:  (
+2002998702;11.03.1953;female;87184339;260;01.12.2021;positive;KH Hall GUI Gyn./Url
+2205950969;31.01.2020;female;87219707;260;17.12.2021;positive;Kinderklinik Notfall
+2205561709;18.02.1991;male;87242019;260;29.12.2021;positive;LKH-NATTERS Pneumolo
+2205920911;06.01.2020;male;87248909;260;03.01.2022;positive;Kinderklinik Station
+2011012445;06.01.1977;male;87252663;260;04.01.2022;positive;KH Hall Intensiv Sta
+2205852576;07.11.2019;male;87364016;260;14.02.2022;positive;Kinderklinik Notfall
+2010640566;21.02.1944;male;87400507;260;24.02.2022;positive;Krankenhaus ST. JOHA
+2206258155;18.01.2021;male;87399247;260;24.02.2022;positive;Kinderklinik Notfall
+2011011783;09.12.1954;female;86528873;280;01.03.2021;positive;KH-HALL Innere Mediz
+2205015496;26.08.2017;female;86521579;280;25.02.2021;positive;Virologie    Tel:  (
+2205878966;04.12.2019;male;86550444;280;05.03.2021;positive;Kinder Station A   T
+2205082681;03.11.2017;male;86552450;270;08.03.2021;positive;P馬diatrische Intensi
+2205082681;03.11.2017;male;86552450;280;08.03.2021;positive;P馬diatrische Intensi
+2206264465;28.01.2021;male;86544024;280;04.03.2021;positive;Neugeborenen-Intensi
+2206223394;07.12.2020;male;86632149;280;25.03.2021;positive;Kinderklinik Notfall
+2206220441;05.12.1989;male;86384601;270;18.01.2021;positive;LKH NATTERS Station 
+2205566441;15.02.2019;male;86384887;270;18.01.2021;positive;P馬diatrische Intensi
+2205566441;15.02.2019;male;86384887;280;18.01.2021;positive;P馬diatrische Intensi
+2205566441;15.02.2019;male;86384887;290;18.01.2021;positive;P馬diatrische Intensi
+2102270145;30.09.2019;female;86385195;290;18.01.2021;positive;Kinderklinik Station
+2205878966;04.12.2019;male;86385871;270;18.01.2021;positive;Kinder Station A   T
+2205878966;04.12.2019;male;86385871;280;18.01.2021;positive;Kinder Station A   T
+2206085064;06.07.2020;male;86385679;270;18.01.2021;positive;Neugeborenen-Intensi
+2205889291;23.04.2019;female;86358226;270;08.01.2021;positive;Kinderklinik Station
+2201985377;22.07.1947;male;86358686;270;08.01.2021;positive;KH Hall Intensiv Sta
+2206168857;23.09.2020;male;86360757;270;11.01.2021;positive;P馬diatrische Intensi
+9002626710;14.02.1985;male;86471488;280;10.02.2021;positive;Sitte Birgit Dr.med.
+2003297112;28.08.1956;male;86475832;270;11.02.2021;positive;KH-Hall Innere Mediz
+2206249946;11.01.2021;female;86461721;270;08.02.2021;positive;Kinderklinik Station
+2102341956;10.04.2021;male;87404750;260;25.02.2022;positive;P馬diatrische Intensi
+2206310688;02.02.2021;male;87418686;260;02.03.2022;positive;Kinderklinik EKG    
+2204578977;02.08.2016;male;87033111;270;07.10.2021;positive;Kinder Station A   T
+2100285447;23.10.2005;male;87524907;260;26.04.2022;positive;Kinderklinik Notfall
+2206761442;03.04.2022;female;87575932;260;30.05.2022;positive;Kinderklinik Station
+9002868994;29.03.1986;female;87587176;260;07.06.2022;positive;Krankenhaus ST. JOHA
+2206455525;23.08.2021;male;87588713;260;08.06.2022;positive;Kinderklinik Station
+2206145369;01.09.2020;male;86903296;270;12.07.2021;positive;Kinderklinik Station
+2206145369;01.09.2020;male;86903296;280;12.07.2021;positive;Kinderklinik Station
+2205495706;20.12.2018;male;87595142;260;13.06.2022;positive;Kinderklinik Station
+2205468326;24.11.2018;female;87730919;260;23.09.2022;positive;Krankenhaus KUFSTEIN
+2101208527;25.04.2008;male;87772887;260;25.10.2022;positive;Kinder Station A   T
+2205035675;28.08.2017;female;87803404;260;21.11.2022;positive;Kinderklinik P馬diatr
+2206020256;17.04.2020;female;87808518;260;23.11.2022;positive;Kinder Station A   T
+2206978005;29.12.2020;female;87809319;260;24.11.2022;positive;Kinderklinik Notfall
+2205659172;04.05.2019;male;87814367;260;29.11.2022;positive;Kinder Station A   T
+2206041180;15.05.2020;male;87818582;260;01.12.2022;positive;Kinderklinik Notfall
+2206373132;07.06.2021;female;86988536;270;08.09.2021;positive;Kinderklinik Notfall
+2206967423;15.11.2022;male;87828150;260;09.12.2022;positive;Kinderklinik Notfall
+2205182813;12.02.2018;male;86935963;270;09.08.2021;positive;Kinderklinik Notfall
+2206963533;11.11.2022;male;87829946;260;12.12.2022;positive;Kinderklinik Station
+2200932970;31.08.2007;female;87832749;260;13.12.2022;positive;Kinderklinik Notfall
+2203885997;23.01.2015;male;87831560;260;13.12.2022;positive;Kinderklinik Notfall
+2206541442;13.11.2021;male;87833461;260;13.12.2022;positive;Kinderklinik Notfall
+2206922780;09.10.2022;male;87837825;260;16.12.2022;positive;Kinderklinik Notfall
+2206915954;03.10.2022;male;87840990;260;19.12.2022;positive;Kinderklinik Station
+9002914848;04.06.2020;female;87841447;260;19.12.2022;positive;Krankenhaus ZAMS  Ki
+2204304915;22.12.2015;male;87842496;260;20.12.2022;positive;Kinderklinik Notfall
+2206110263;29.07.2020;male;87847168;260;22.12.2022;positive;Kinderklinik Notfall
+2206371180;02.06.2021;male;87850490;260;27.12.2022;positive;Kinderklinik Station
+2205182813;12.02.2018;male;87092334;270;02.11.2021;positive;Kinderklinik Station
+2206988471;04.12.2022;male;87849667;260;27.12.2022;positive;Kinderklinik Station
+2206175934;01.10.2020;male;87851765;260;28.12.2022;positive;Kinderklinik Notfall
+2206136971;21.08.2020;male;87092008;270;02.11.2021;positive;P馬diatrische Intensi
+2206513937;01.09.2020;female;87091910;270;02.11.2021;positive;P馬diatrische Intensi
+2206320144;07.04.2021;male;87070431;270;21.10.2021;positive;Kinderklinik Station
+2207006540;19.12.2022;female;87852575;260;29.12.2022;positive;Kinderklinik Notfall
+2204979289;25.07.2017;male;87853693;260;30.12.2022;positive;Kinderklinik Notfall
+2102270145;30.09.2019;female;87855295;260;02.01.2023;positive;Kinder Station A   T
+2206018125;14.04.2020;female;87856031;260;02.01.2023;positive;Kinderklinik Notfall
+2206849323;06.08.2022;female;87855442;260;02.01.2023;positive;Kinderklinik Notfall
+9002918177;31.01.2020;female;87859400;260;04.01.2023;positive;Krankenhaus ZAMS  Ki
+2205721242;05.07.2019;female;87861739;260;09.01.2023;positive;Kinderklinik Notfall
+2206063494;13.06.2020;female;87105837;280;04.11.2021;positive;Kinderklinik Notfall
+2206830460;22.07.2022;male;87862355;260;09.01.2023;positive;Kinderklinik Notfall
+2206617215;23.01.2022;male;87882393;260;23.01.2023;positive;Kinderklinik Station
+2206487650;24.09.2021;female;87105422;280;04.11.2021;positive;Kinderklinik Notfall
+2206305307;19.03.2021;female;86705596;280;22.04.2021;positive;P馬diatrische Intensi
+2206314128;30.03.2021;male;86697211;280;20.04.2021;positive;Kinderklinik Station
+2206314128;30.03.2021;male;86696323;280;20.04.2021;positive;Kinderklinik Notfall
+2204483313;14.05.2016;female;86712205;280;26.04.2021;positive;Kinderklinik Station
+2102427435;01.01.2011;male;86655344;270;02.04.2021;positive;Krankenhaus REUTTE  
+2204511007;06.06.2016;female;86658800;270;06.04.2021;positive;Kinder Station A   T
+2206045224;22.05.2020;male;86812944;270;19.05.2021;positive;Kinder Station A   T
+2102179059;15.01.2019;female;86819098;280;20.05.2021;positive;P馬diatrische Intensi
+2205972644;19.02.2020;male;86817063;280;20.05.2021;positive;Kinderklinik Notfall
+2203041201;30.08.2012;male;86868219;280;16.06.2021;positive;P馬diatrische Intensi
+2204354530;03.02.2016;male;87904152;260;07.02.2023;positive;Kinderklinik Onkolog
+2206014965;06.04.2020;male;86751301;280;03.05.2021;positive;Kinderklinik Station
+2102290502;02.04.2011;female;86749549;280;03.05.2021;positive;Kinderklinik Station
+2205522916;15.05.2018;female;85727517;290;28.07.2020;positive;Kinderklinik Station
+2200466309;11.10.2005;female;85663880;290;10.07.2020;positive;Kinderklinik Station
+2205947410;16.02.2019;male;85752319;270;03.08.2020;positive;Kinderklinik Station
+2200466309;11.10.2005;female;85495355;290;25.05.2020;positive;Kinderklinik Station
+2200466309;11.10.2005;female;85624554;290;30.06.2020;positive;Kinder Station A   T
+2206140804;26.08.2020;female;85871449;290;28.08.2020;positive;Neugeborenen-Intensi
+2204488346;11.03.2016;female;85105698;280;27.03.2020;positive;Kinderchir. 3/N    T
+2102247437;24.02.2020;female;85187002;280;08.04.2020;positive;Kinder Station A   T
+2006445511;11.02.1992;female;84671097;270;18.03.2019;positive;HNO-Klinische Ambula
+9001957918;03.06.2014;male;84672538;280;20.03.2019;positive;Krankenhaus KUFSTEIN
+2204877427;19.04.2017;male;84679022;270;29.03.2019;positive;Kinderklinik Station
+2203654785;06.01.2014;male;84675142;280;22.03.2019;positive;HNO-OP    Tel:  (I)
+2205398336;11.09.2018;male;7935994;270;26.03.2019;positive;Kinderklinik Station
+2203621518;12.06.2014;male;84662660;280;07.03.2019;positive;HNO-OP    Tel:  (I)
+2205597487;09.12.2018;male;7814600;280;12.03.2019;positive;P馬diatrische Intensi
+2203050944;24.11.1984;female;87924946;260;22.02.2023;positive;Kinder Station A   T
+2204630642;07.04.2016;female;84742004;270;21.06.2019;positive;Kinderklinik Station
+2205222785;19.03.2018;male;84722260;270;28.05.2019;positive;Kinder Station A   T
+2205636156;28.07.2016;male;84781524;270;01.08.2019;positive;Krankenhaus KUFSTEIN
+2203775132;07.04.2013;female;84695830;270;19.04.2019;positive;HNO-OP    Tel:  (I)
+2203653835;13.07.2014;male;84696911;290;23.04.2019;positive;HNO-Kinderstat.    T
+2206963908;10.11.2022;male;87940548;260;06.03.2023;positive;Kinder Station A   T
+2205524412;16.01.2019;male;84714018;290;16.05.2019;positive;Kinder Station A   T
+2203177731;26.06.2013;male;8014691;290;20.05.2019;positive;HNO-OP    Tel:  (I)
+9001906531;20.05.2018;male;8669077;270;23.05.2019;positive;Krankenhaus KUFSTEIN
+2203177731;26.06.2013;male;84716236;290;20.05.2019;positive;HNO-OP    Tel:  (I)
+2203177731;26.06.2013;male;84716245;290;20.05.2019;positive;HNO-OP    Tel:  (I)
+2203708982;24.08.2014;male;84709209;280;09.05.2019;positive;HNO-OP    Tel:  (I)
+2203708982;24.08.2014;male;84709209;290;09.05.2019;positive;HNO-OP    Tel:  (I)
+2203708982;24.08.2014;male;84709194;280;09.05.2019;positive;HNO-OP    Tel:  (I)
+2203708982;24.08.2014;male;84709194;290;09.05.2019;positive;HNO-OP    Tel:  (I)
+2205660286;08.10.2018;male;84709015;280;09.05.2019;positive;P馬diatrische Intensi
+2205660286;08.10.2018;male;84709015;290;09.05.2019;positive;P馬diatrische Intensi
+2204400116;06.03.2016;male;84703100;270;02.05.2019;positive;HNO-OP    Tel:  (I)
+2204208868;07.10.2015;male;8127374;270;06.05.2019;positive;Kinderklinik Notfall
+2203663923;17.07.2014;male;84704591;270;03.05.2019;positive;HNO-OP    Tel:  (I)
+2203081262;29.03.2013;female;8083243;280;12.02.2019;positive;Kinderklinik EKG    
+2014086926;15.06.2004;female;7151581;270;29.01.2019;positive;P馬diatrische Intensi
+2205544901;08.12.2017;female;84626740;270;30.01.2019;positive;Kinder Station A   T
+2205544901;08.12.2017;female;84626740;280;30.01.2019;positive;Kinder Station A   T
+2204973701;20.07.2017;female;87980532;260;04.04.2023;positive;P馬diatrische Intensi
+2205541163;27.12.2014;female;7557425;270;28.01.2019;positive;Kinder Station A   T
+2205319010;26.06.2018;female;84628669;280;31.01.2019;positive;P馬diatrische Intensi
+2102027402;04.03.2017;female;84628792;280;31.01.2019;positive;Kinderklinik Allgeme
+2206140324;10.02.2020;female;87985480;260;11.04.2023;positive;Kinderklinik Notfall
+9001952657;30.09.2015;male;84652710;280;25.02.2019;positive;Krankenhaus KUFSTEIN
+2205317417;26.06.2018;male;84652195;280;25.02.2019;positive;Kinderklinik Notfall
+2205477368;03.12.2018;male;84652130;290;25.02.2019;positive;Kinderklinik Station
+2205427948;09.10.2018;male;84651588;280;25.02.2019;positive;Kinderklinik Notfall
+2203351782;22.11.2013;female;84659205;280;01.03.2019;positive;HNO-OP    Tel:  (I)
+2203616999;09.06.2014;male;84658970;280;01.03.2019;positive;HNO-OP    Tel:  (I)
+2202469224;25.08.2011;female;88085588;260;10.07.2023;positive;Kinderklinik Notfall
+2206100055;08.06.2019;male;88085146;260;10.07.2023;positive;Kikl.Med.Stat.(Gross
+2203081262;29.03.2013;female;8084689;280;19.02.2019;positive;Kinderklinik EKG    
+2203607205;04.06.2014;female;8014530;280;19.02.2019;positive;HNO-OP    Tel:  (I)
+2204986463;02.08.2017;male;84646511;280;18.02.2019;positive;P馬diatrische Intensi
+2204672402;22.10.2016;male;84645871;270;18.02.2019;positive;HNO-OP    Tel:  (I)
+2205551045;02.02.2019;male;84647040;280;19.02.2019;positive;Kinderklinik Notfall
+2205449461;05.11.2018;female;84942618;290;24.01.2020;positive;Kinder Station A   T
+2203499569;12.03.2014;female;84943630;290;27.01.2020;positive;Kinder Station A   T
+2205182813;12.02.2018;male;84923812;290;09.01.2020;positive;Kinderklinik Station
+2205783647;30.08.2019;male;84957381;290;05.02.2020;positive;Kinderklinik Station
+2204656196;06.10.2016;female;84945706;290;27.01.2020;positive;HNO-OP    Tel:  (I)
+2205943318;15.01.2020;male;84945356;290;27.01.2020;positive;P馬diatrische Intensi
+2205168233;30.01.2018;male;84950100;290;30.01.2020;positive;Kinderklinik Station
+2202858003;26.08.2010;male;84862022;280;31.10.2019;positive;Kinderklinik Station
+2207331891;02.05.2023;female;88151321;260;13.09.2023;positive;Kinderklinik Notfall
+2205396694;01.01.1980;male;84888380;280;29.11.2019;positive;Unfallstation 3 6/N 
+2205396694;01.01.1980;male;84888380;290;29.11.2019;positive;Unfallstation 3 6/N 
+2205396694;01.01.1980;male;84888380;270;29.11.2019;positive;Unfallstation 3 6/N 
+2205875444;15.09.2019;female;7871024;290;03.12.2019;positive;Kinderklinik Notfall
+2203081262;29.03.2013;female;84876294;290;18.11.2019;positive;Kinderklinik EKG    
+9001992284;02.09.2019;male;84835569;280;02.10.2019;positive;Krankenhaus KUFSTEIN
+2204630146;15.09.2016;female;84913470;270;23.12.2019;positive;Kinder Station A   T
+2205854781;11.11.2019;male;84896849;290;09.12.2019;positive;Kinderklinik Notfall
+2205723725;09.07.2019;female;84893857;280;05.12.2019;positive;Kinder Station A   T
+2205138075;01.01.2018;male;84904280;290;16.12.2019;positive;Kinder Station A   T
+2205068646;11.10.2017;female;84362376;270;11.12.2017;positive;Kinderklinik Notfall
+2203499569;12.03.2014;female;84361414;290;07.12.2017;positive;Kinder Station A   T
+2205001290;12.08.2017;female;84367751;290;20.12.2017;positive;Kinderklinik Notfall
+9001868885;05.06.2008;female;84355128;290;29.11.2017;positive;Krankenhaus KUFSTEIN
+2205094019;09.06.2011;male;88173191;260;03.10.2023;positive;Kinderklinik Station
+2003656090;09.03.1960;male;7468872;270;04.01.2018;positive;KH-HALL Innere Mediz
+2207323554;04.09.2023;male;88201905;260;30.10.2023;positive;Kinderklinik Notfall
+2205082126;01.11.2017;male;84369422;270;27.12.2017;positive;Kinderklinik Station
+2207264477;05.11.2021;male;88217074;260;13.11.2023;positive;Kikl.Med.Stat.(Gross
+2011569547;05.02.1960;female;84333299;270;24.10.2017;positive;LKH-NATTERS Pneumolo
+2206790841;11.04.2020;male;88311554;260;05.02.2024;positive;Kinderklinik Notfall
+2205065329;13.10.2017;female;8216175;280;05.02.2018;positive;Kinder Station A   T
+2014168748;26.08.2004;female;7589020;270;08.02.2018;positive;Krankenhaus KUFSTEIN
+2013626580;01.05.2003;female;7801160;290;24.01.2018;positive;Kinderklinik EKG    
+9002987569;10.08.1921;female;88338850;260;22.02.2024;positive;Mag. Dr. Fellner Nic
+2207152873;03.12.2021;female;88341952;260;26.02.2024;positive;Kinder Station A   T
+2204857477;04.02.2015;female;8216290;280;25.01.2018;positive;Kinder Station A   T
+2204799531;28.12.2016;male;7702860;280;15.02.2017;positive;Kinder Station A   T
+2204692467;11.11.2016;male;84136915;280;09.01.2017;positive;Kinderklinik Station
+2002058181;26.06.1941;female;84139653;270;10.01.2017;positive;HA-Station A    Tel:
+2207533923;17.11.2018;male;88345321;260;28.02.2024;positive;HNO-Kinderstat.    T
+2205480148;05.12.2018;male;88349500;260;01.03.2024;positive;Kinderklinik Notfall
+2204698026;15.11.2016;female;84141724;280;11.01.2017;positive;Kinderklinik Station
+2204695159;13.11.2016;female;84132602;280;02.01.2017;positive;Kinder Station A   T
+2204698026;15.11.2016;female;84134619;280;04.01.2017;positive;Kinderklinik Station
+2010010430;19.04.1981;female;84146653;280;17.01.2017;positive;Department f葱r Hygie
+2101898701;07.12.2016;male;84145305;290;16.01.2017;positive;P馬diatrische Intensi
+2204857205;29.03.2017;male;84211228;290;21.04.2017;positive;Kinderklinik Station
+2204044514;01.06.2015;female;7703510;280;04.04.2017;positive;Kinder Station A   T
+2003341685;22.02.1957;female;88357716;260;07.03.2024;positive;Innere Medizin Stat.
+2202668065;02.04.1947;female;84210030;270;19.04.2017;positive;LKH-NATTERS Pneumolo
+2207312170;25.08.2023;female;88382835;260;27.03.2024;positive;Kinderklinik EKG    
+2206574650;21.09.2021;male;88387686;260;02.04.2024;positive;Kinderklinik Notfall
+2203407941;04.01.2014;female;84177843;270;01.03.2017;positive;Kinder Station A   T
+2204614957;01.09.2016;female;7255055;280;17.02.2017;positive;Kinderklinik Notfall
+2204759424;10.01.2017;female;84171805;280;20.02.2017;positive;Kinderklinik Notfall
+2002020109;29.01.1941;female;84187632;270;15.03.2017;positive;HA-Station A    Tel:
+2101903209;20.06.2016;male;84179427;280;03.03.2017;positive;Kinderklinik Station
+2002020109;29.01.1941;female;7821499;270;13.03.2017;positive;HA-Station A    Tel:
+2205423942;28.08.2018;male;8196270;270;16.10.2018;positive;Kinderklinik Notfall
+2201860434;03.02.2010;female;7150992;270;09.05.2018;positive;P馬diatrische Intensi
+9002987403;07.02.2022;female;88409298;260;17.04.2024;positive;Krankenhaus KUFSTEIN
+2102321181;03.07.2020;male;88425143;260;29.04.2024;positive;Krankenhaus ZAMS  Ki
+9002999533;01.02.2023;female;88426165;260;30.04.2024;positive;Krankenhaus KUFSTEIN
+2201521397;09.07.2009;female;88430173;260;03.05.2024;positive;Kinderklinik Notfall
+2207614265;30.04.2024;female;88430251;260;03.05.2024;positive;Neugeborenen-Intensi
+2201017036;11.01.2008;female;88441150;260;13.05.2024;positive;Kinderchir. 5/N    T
+2102338459;14.06.2021;male;88487191;260;17.06.2024;positive;Kinderklinik Notfall
+9001940969;10.06.2018;male;84606862;270;02.01.2019;positive;Krankenhaus KUFSTEIN
+2205117981;10.12.2017;male;8125261;290;14.01.2019;positive;Kinderklinik Notfall
+2205522304;14.05.2018;female;84613890;280;14.01.2019;positive;Kinderklinik Station
+2205524854;18.01.2018;male;84615602;290;15.01.2019;positive;P馬diatrische Intensi
+2204012272;04.05.2015;female;7079778;280;15.11.2018;positive;Kinderklinik Station
+2207426655;10.12.2023;male;88496240;260;21.06.2024;positive;Kikl.Med.Stat.(Gross
+9001935892;27.10.2006;female;84588100;270;26.11.2018;positive;Krankenhaus KUFSTEIN
+2203996112;19.04.2015;female;84569824;270;24.10.2018;positive;Kinderklinik Station
+2205466323;22.11.2018;male;84597277;270;10.12.2018;positive;Kinder Station A   T
+2205798679;15.09.1971;male;88497948;260;24.06.2024;positive;KH Hall GUI Gyn./Url
+2205332610;11.07.2018;female;8167226;270;19.12.2018;positive;Kinderklinik Station
+2207673458;16.10.2014;male;88509673;260;02.07.2024;positive;Kinder Station A   T
+2207731202;14.04.2024;male;88567055;260;19.08.2024;positive;Kinderklinik Station
+2204788432;05.02.2017;male;7150974;280;05.04.2018;positive;P馬diatrische Intensi
+2201670678;22.12.2009;female;84438328;280;10.04.2018;positive;Kinderklinik Allgeme
+2203834252;08.12.2014;female;84430204;280;30.03.2018;positive;Department f葱r Hygie
+2205102789;25.11.2017;male;84419725;270;19.03.2018;positive;Kinderklinik Notfall
+2202602188;13.01.2012;female;7078218;270;09.03.2018;positive;Kinderklinik Station
+9002045718;01.09.2015;male;85038708;280;17.03.2020;positive;Krankenhaus REUTTE  
+2200466309;11.10.2005;female;85043590;290;18.03.2020;positive;P馬diatrische Intensi
+2200466309;11.10.2005;female;85006550;290;10.03.2020;positive;P馬diatrische Intensi
+2200466309;11.10.2005;female;85003030;290;08.03.2020;positive;P馬diatrische Intensi
+2205969961;04.08.2014;female;84972579;270;18.02.2020;positive;P馬diatrische Intensi
+2205699921;09.04.2017;female;84972588;270;18.02.2020;positive;Kinder Station A   T
+2101578162;17.04.1997;female;84972620;290;18.02.2020;positive;Kinderklinik Allgeme
+2203526401;27.03.2014;male;84981935;290;25.02.2020;positive;Kinderklinik Station
+2101994115;29.07.2002;female;84981355;270;25.02.2020;positive;HNO-Kinderstat.    T
+2205978278;23.05.2005;male;84978949;270;23.02.2020;positive;P馬diatrische Intensi
+2205833423;18.10.2019;male;84963650;290;10.02.2020;positive;Kinder Station A   T
+2205206828;02.09.2016;female;84964575;280;11.02.2020;positive;P馬diatrische Intensi
+2200466309;11.10.2005;female;84982022;290;25.02.2020;positive;Krankenhaus ST. JOHA
+9002033507;15.09.2015;male;85017932;280;13.03.2020;positive;Krankenhaus REUTTE  
+2001672390;14.09.1936;female;88706931;260;05.12.2024;positive;ME-Gemeinsame Stat. 
+2200466309;11.10.2005;female;85010734;290;11.03.2020;positive;P馬diatrische Intensi
+2200466309;11.10.2005;female;85015810;290;12.03.2020;positive;P馬diatrische Intensi
+2205957831;06.02.2020;female;85014913;290;12.03.2020;positive;Kinderklinik S馬uglin
+2200466309;11.10.2005;female;85375741;290;05.05.2020;positive;Kinderklinik Station
